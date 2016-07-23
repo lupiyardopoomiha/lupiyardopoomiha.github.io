@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+	<div id="description-of-book">
+<p class="highlight">Looking for love online?</div>
+
+<p class="paragraph">Follow one lonely, divorced man as he tries to find love online. These are the true stories of the women he meets on his journey. Each story is told in a matter-of-fact manner style and entirely from his perspective.</p>
+
+<p class="paragraph">This book is more about failure than it is about success. It's NOT a book about getting chicks or macking women successfully. Quite the opposite. In this book you'll see one man's (at times) humorous and (at other times)sad attempts to find love.</p>
+
+<p class="paragraph">You'll learn many things you shouldn't do when dating online. You'll learn some things that do work successfully, but overall you'll get a realistic picture of the online dating scene, and it's not pretty'.</p>
+
+<div id="div-for-link">
+<a href="https://www.amazon.com/dp/B0139YSZIC" target="_blank">
+	<div id="link-to-amazon">
+	Order on Amazon
+	</div>
+</a>
+</div>
+
+	</div>
+
+	<a href=""><img src="/assets/book_cover.jpg" id="book-cover" title="Dating Women Online" /></a>
+
+</div>
